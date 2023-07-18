@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosbuild_website_ng=self.webpackChunkosbuild_website_ng||[]).push([[8113],{1676:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/osbuild-website-ng/blog/tags/docusaurus","allTagsPath":"/osbuild-website-ng/blog/tags","count":4}')}}]);

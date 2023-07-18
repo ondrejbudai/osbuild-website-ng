@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosbuild_website_ng=self.webpackChunkosbuild_website_ng||[]).push([[6323],{4322:e=>{e.exports=JSON.parse('{"permalink":"/osbuild-website-ng/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosbuild_website_ng=self.webpackChunkosbuild_website_ng||[]).push([[1435],{4531:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/osbuild-website-ng/blog/tags/hola","allTagsPath":"/osbuild-website-ng/blog/tags","count":1}')}}]);

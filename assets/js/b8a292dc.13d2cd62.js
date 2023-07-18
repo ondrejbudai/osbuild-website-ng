@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosbuild_website_ng=self.webpackChunkosbuild_website_ng||[]).push([[1487],{4428:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/osbuild-website-ng/blog/tags/facebook","allTagsPath":"/osbuild-website-ng/blog/tags","count":1}')}}]);
